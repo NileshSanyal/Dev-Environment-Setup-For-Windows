@@ -1,0 +1,11 @@
+choco install winrar --version 6.11.0.20220504 -y
+choco install googlechrome --version 106.0.5249.119 -y
+choco install vscode --version 1.72.2 -y
+choco install mongodb --version 6.1.0 -y
+choco install mongodb-compass --version 1.33.1 -y
+choco install python --version 3.10.8 -y
+choco install git --version 2.38.1 -y
+choco install python2 --version 2.7.18 -y
+choco install nvm --version 1.1.9 -y
+choco install dbeaver --version 22.2.2 -y
+choco install wamp-server --version 3.2.6 -y
